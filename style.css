@@ -8,12 +8,23 @@ header
     background-color:black;
     color:white;
 }
+.header
+{
+	color:blue;
+}
+.nav
+{
+  float:center;
+    width:100px;
+    color:white;
+}
+
 body
 {
     background-color:blue;
+    color:white;
 }
 table
 {
-    float:center;
-    color:red;
+	border: 1px green;
 }
