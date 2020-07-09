@@ -5,6 +5,7 @@
 }
 header
 {
+    
     background-color:black;
     color:white;
 }
@@ -14,8 +15,7 @@ header
 }
 .nav
 {
-  float:center;
-    width:100px;
+   float:center;
     color:white;
 }
 
@@ -27,4 +27,9 @@ body
 table
 {
 	border: 1px green;
+}
+.right_aside
+{
+	background-color:black;
+	float:right;
 }
