@@ -30,6 +30,8 @@ table
 }
 .right_aside
 {
-	background-color:black;
+	background-color:grey;
 	float:right;
+	width:80px;
+	
 }
