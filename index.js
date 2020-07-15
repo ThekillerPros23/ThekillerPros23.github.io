@@ -1,6 +1,7 @@
-function archivo()
+var x,y;
+function documento(x, y)
 {
-	var x=prompt(x);
-	alert(x);
+	suma =x+y;
+	return suma;
 }
-archivo();
+document.write(documento(3,4));

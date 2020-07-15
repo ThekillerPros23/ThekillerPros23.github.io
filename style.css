@@ -5,20 +5,18 @@
 }
 header
 {
-    
     background-color:black;
     color:white;
 }
 .header
 {
-	color:blue;
+    color:blue;
 }
-.nav
+.navi
 {
-   float:center;
+    float:center;
     color:white;
 }
-
 body
 {
     background-color:white;
@@ -30,8 +28,15 @@ table
 }
 .right_aside
 {
-	background-color:grey;
+	background-color:blueviolet;
 	float:right;
-	width:80px;
-	
+	width:80px;	
+}
+a:active{
+    color:blue;
+}
+a:hover
+{
+    border: 1px;
+    color:brown;
 }
