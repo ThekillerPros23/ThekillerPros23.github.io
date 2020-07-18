@@ -40,6 +40,11 @@ a:hover
     border: 1px;
     color:brown;
 }
+.imagen img
+{
+	width:1360px;
+	height:400px;
+}
 footer
 {
  position: absolute;
